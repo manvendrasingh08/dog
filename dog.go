@@ -9,3 +9,7 @@ func BarkGrownUp() string {
 func From02() {
 	fmt.Println("i m from version 0.2.0")
 }
+
+func From03() {
+	fmt.Println("i m from version 0.3.0")
+}
